@@ -1,0 +1,1 @@
+windows config, very compitable with linux and portability
